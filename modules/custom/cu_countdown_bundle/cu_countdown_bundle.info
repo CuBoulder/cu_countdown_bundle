@@ -1,0 +1,5 @@
+name = CU Countdown Bundle
+core = 7.x
+package = cu_countdown_bundle
+dependencies[] = cu_countdown
+dependencies[] = shortcode
